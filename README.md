@@ -1,6 +1,11 @@
 # Simple-Manga-Shopping
 A simple shopping website
 
+## Tools and Technologies
+
+- Technology: HTML, CSS, Java web Servlet, JSP
+- Database : SQL server
+
 ## Functionalities
 
 1.  User Registration
