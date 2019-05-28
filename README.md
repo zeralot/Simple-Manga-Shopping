@@ -12,16 +12,16 @@ A simple shopping website
 
 ## Screenshots
 
-##Home page
+## Home page
 ![Alt text](https://github.com/zeralot/Simple-Manga-Shopping/blob/master/Screenshot/Screenshot%20(5).png "Home Page")
 
-##Contact
+## Contact
 ![Alt text](https://github.com/zeralot/Simple-Manga-Shopping/blob/master/Screenshot/Screenshot%20(6).png "Contact")
 
-##Manager
+## Manager
 ![Alt text](https://github.com/zeralot/Simple-Manga-Shopping/blob/master/Screenshot/Screenshot%20(8).png "Manager")
 
-##Product list
+## Product list
 ![Alt text](https://github.com/zeralot/Simple-Manga-Shopping/blob/master/Screenshot/Screenshot%20(12).png "Product list")
 
 ## Author 
