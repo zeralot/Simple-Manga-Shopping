@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Study/PRJ321/Project/web/updateCustomer.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/web/Login.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/web/images/Nanatsu.jpg</file>
+            <file>file:/E:/Study/PRJ321/Project/web/DisplayCustomer.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/web/HomePage.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/controller/CusController.java</file>
+            <file>file:/E:/Study/PRJ321/Project/web/DisplayProduct.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/web/images/closelabel.gif</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/entity/Product.java</file>
+            <file>file:/E:/Study/PRJ321/Project/web/updateProduct.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/web/WEB-INF/web.xml</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/model/DAOBill.java</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/model/DAOCategory.java</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/model/DAOAdmin.java</file>
+            <file>file:/E:/Study/PRJ321/Project/web/CategoryRegisterScreen.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/entity/Admin.java</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/controller/ProController.java</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/entity/Category.java</file>
+            <file>file:/E:/Study/PRJ321/Project/web/checkout.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/web/DisplayCategory.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/web/ShoppingList.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/web/details.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/web/updateCategory.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/web/images/beelzebub.jpg</file>
+            <file>file:/E:/Study/PRJ321/Project/web/AdminScreen.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/model/DAOProduct.java</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/controller/LogoutController.java</file>
+            <file>file:/E:/Study/PRJ321/Project/web/images/Servlets_files/intro6eselftest.css</file>
+            <file>file:/E:/Study/PRJ321/Project/web/ProductRegisterScreen.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/entity/Cart.java</file>
+            <file>file:/E:/Study/PRJ321/Project/web/images/facebook.png</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/model/DAOCustomer.java</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/controller/LoginController.java</file>
+            <file>file:/E:/Study/PRJ321/Project/web/CustomerRegisterScreen.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/model/DAOBillDetail.java</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/entity/Customer.java</file>
+            <file>file:/E:/Study/PRJ321/Project/web/css/bootstrap.css</file>
+            <file>file:/E:/Study/PRJ321/Project/web/Add2Cart.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/web/index.html</file>
+            <file>file:/E:/Study/PRJ321/Project/web/showCart.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/web/LoginAdmin.jsp</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/entity/BillDetail.java</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/controller/CatController.java</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/controller/ProControllerClient.java</file>
+            <file>file:/E:/Study/PRJ321/Project/src/java/entity/Bill.java</file>
+        </group>
+    </open-files>
+</project-private>

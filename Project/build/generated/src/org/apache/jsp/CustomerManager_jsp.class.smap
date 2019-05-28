@@ -1,0 +1,20 @@
+SMAP
+CustomerManager_jsp.java
+JSP
+*S JSP
+*F
++ 0 CustomerManager.jsp
+CustomerManager.jsp
+*L
+1,68:47
+68,3:115
+70,2:118
+71,6:120
+76,16:126
+91,2:142
+92,2:144
+94,10:146,3
+104,2:176
+106:178,3
+107,24:181
+*E
